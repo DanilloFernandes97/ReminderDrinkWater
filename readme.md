@@ -29,6 +29,8 @@ Este projeto é feito sob a licença do MIT.
 
 [LinkedIn](https://www.linkedin.com/in/danillo-fernandes-720623108/)
 
+
 ---
+Looking for the executable? Check the link [Release Area](https://github.com/DanilloFernandes97/ReminderDrinkWater/releases/download/v1.0.0/ReminderDrinkWater.exe)
 
 Feito com ♥ por Danillo Fernandes.
